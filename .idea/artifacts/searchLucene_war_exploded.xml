@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="searchLucene:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/searchLucene_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="searchLucene/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="searchLucene" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
